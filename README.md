@@ -141,6 +141,27 @@ Bu klasör, web shell ve arka kapı oluşturma/istismar araçlarına dair rehber
 
 ---
 
+## 7.Yerel Ağ Saldırıları
+
+Bu klasör, yerel ağda yapılan saldırı teknikleri ve araçlarına dair rehberleri içerir.
+
+**İçerik Listesi:**
+- ARP Spoofing ve SSLstrip ile Araya Girme.docx
+- Girilen Web Sitelerini Loglama (Ağ Trafiği İzleme.docx
+
+---
+
+## 8.Kablosuz Ağlara Yönelik Saldırılar
+
+Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair rehberleri içerir.
+
+**İçerik Listesi:**
+- Ghost Phisher .docx
+- WEP ağlarına yönelik saldırılar.docx
+- WPAWPA2 AĞLARINA YÖNELİK SALDIRILAR .docx
+
+---
+
 ## logo
 
 - logo.jpg
