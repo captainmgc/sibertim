@@ -15,12 +15,12 @@ Bu klasör, siber güvenlik çalışmalarına başlamadan önce temel bilgileri 
 **İçerik Listesi:**
 - 1.Giriş.docx
 - 2.Kali_Linux_Temel_Bilgiler.docx
+- 2.Kali_Linux_Temel_Bilgiler2.docx
 - 2.Siyah_Beyaz_Gri_Kutu_Testleri.docx
+- 3.Kali Linux Live USB Kılavuzu.docx
 - 3.UTM Üzerine Kurulumu.docx
 - 3.VMware Workstation Üzerine Kurulumu.docx
 - 3.Virtual Box Üzerine Kurulumu.docx
-
-Her bir döküman, ilgili başlık altında detaylı açıklamalar ve adım adım rehberler sunar.
 
 ---
 
@@ -31,53 +31,52 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 ### Alt Klasörler ve İçerikleri
 
 #### 1. Alan Adı ve Subdomain Keşfi
-- ReconFTW_Kullanim_Kilavuzu.docx
+- Amass.docx
+- AssetFinder.docx
+- Crtsh_Httpx.docx
 - Dnsenum.docx
 - Findomain.docx
-- Crtsh_Httpx.docx
-- AssetFinder.docx
+- ReconFTW_Kullanim_Kilavuzu.docx
 - Subfinder.docx
-- Amass.docx
 - SUBLİST3R.docx
 
 #### 2. E-posta ve İnsan Bilgisi Toplama (OSINT)
-- theharvester.docx
-- RECON.NG.docx
 - Email_Format_com.docx
 - Hunter_io.docx
 - Linkedin.docx
+- RECON.NG.docx
+- theharvester.docx
 - Pish Nedir.docx
 - SocialFish Nedir.docx
 - Weeman Nedir.docx
 
 #### 3. Açıkta Kalmış Dosya ve Endpoint Bulma
-- Paramspider.docx
 - gau(getallUrls).docx
-- waybackurls.docx
 - Goofile.docx
+- Paramspider.docx
+- waybackurls.docx
+- google dorking.docx
 
 #### 4. Ağ, IP ve Servis Bilgisi Toplama
-- WHATWEB  WAPPALYZER.docx
-- DMİTRY.docx
 - CENSYS.docx
+- DMİTRY.docx
 - SHODAN .docx
+- WHATWEB  WAPPALYZER.docx
 
 #### 5. Web Uygulaması ve WAF Tespiti
 - Httprobe_vs_httpx.docx
 - WafW00f.docx
 
 #### 6. Görsel OSINT  Haritalama
-- SpiderFoot.docx
-- Metagoofil.docx
 - Maltego.docx
+- Metagoofil.docx
+- SpiderFoot.docx
 - EvilURL Nedir.docx
 
 #### 7. Zafiyet Arşivi ve Exploit Veritabanı
-- Vulners_Zafiyet_Veritabani.docx
-- GitHub_Zafiyet_POC_OSINT.docx
 - ExploitDB_SearchSploit_Rehber.docx
-
-Her alt klasörde, ilgili araçlara ait .docx dökümanları bulunmaktadır.
+- GitHub_Zafiyet_POC_OSINT.docx
+- Vulners_Zafiyet_Veritabani.docx
 
 ---
 
@@ -93,8 +92,6 @@ Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara 
   - SSL SCANNER .docx
   - STRİCERT.docx
 
-Her bir döküman, ilgili aracın kullanımı ve örnek uygulamaları hakkında bilgi sunar.
-
 ---
 
 ## 4. Web Uygulama Tarayıcısı
@@ -102,16 +99,14 @@ Her bir döküman, ilgili aracın kullanımı ve örnek uygulamaları hakkında 
 Bu klasör, web uygulamalarının güvenlik testlerinde kullanılan tarama araçlarına dair rehberleri içerir.
 
 **İçerik Listesi:**
-- Vega.docx
-- W3af.docx
-- JoomScan.docx
-- owasp-zap.docx
 - Clickjacking Nedir.docx
 - D-TECT.docx
+- JoomScan.docx
 - NİKTO.docx
+- owasp-zap.docx
 - RED HAWK.docx
-
-Her bir döküman, ilgili aracın kurulumu, kullanımı ve örnek test senaryoları hakkında bilgi sunar.
+- Vega.docx
+- W3af.docx
 
 ---
 
@@ -122,11 +117,13 @@ Bu klasör, web uygulamalarında istismar (exploitation) işlemlerinde kullanıl
 **İçerik Listesi:**
 - Metasploit.pptx
 
-Döküman, Metasploit Framework'ün kullanımı ve temel istismar teknikleri hakkında bilgi sunar.
-
 ---
 
-## Katkı ve Lisans
+## logo
+
+- logo.jpg
+
+---
 
 Katkıda bulunmak isteyenler, yeni içerik ekleyebilir veya mevcut içerikleri güncelleyebilir. Lütfen katkı yapmadan önce bir issue açınız.
 
