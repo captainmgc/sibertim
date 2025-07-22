@@ -38,6 +38,7 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - AssetFinder.docx
 - Subfinder.docx
 - Amass.docx
+- SUBLİST3R.docx
 
 #### 2. E-posta ve İnsan Bilgisi Toplama (OSINT)
 - theharvester.docx
@@ -45,6 +46,9 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - Email_Format_com.docx
 - Hunter_io.docx
 - Linkedin.docx
+- Pish Nedir.docx
+- SocialFish Nedir.docx
+- Weeman Nedir.docx
 
 #### 3. Açıkta Kalmış Dosya ve Endpoint Bulma
 - Paramspider.docx
@@ -66,6 +70,7 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - SpiderFoot.docx
 - Metagoofil.docx
 - Maltego.docx
+- EvilURL Nedir.docx
 
 #### 7. Zafiyet Arşivi ve Exploit Veritabanı
 - Vulners_Zafiyet_Veritabani.docx
@@ -83,6 +88,10 @@ Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara 
 **İçerik Listesi:**
 - Hping3.docx
 - Nmap.docx
+- IP Attack Nedir.docx
+- SSL Araçları/
+  - SSL SCANNER .docx
+  - STRİCERT.docx
 
 Her bir döküman, ilgili aracın kullanımı ve örnek uygulamaları hakkında bilgi sunar.
 
@@ -97,6 +106,10 @@ Bu klasör, web uygulamalarının güvenlik testlerinde kullanılan tarama araç
 - W3af.docx
 - JoomScan.docx
 - owasp-zap.docx
+- Clickjacking Nedir.docx
+- D-TECT.docx
+- NİKTO.docx
+- RED HAWK.docx
 
 Her bir döküman, ilgili aracın kurulumu, kullanımı ve örnek test senaryoları hakkında bilgi sunar.
 
