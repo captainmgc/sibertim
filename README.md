@@ -99,6 +99,8 @@ Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara 
 Bu klasör, web uygulamalarının güvenlik testlerinde kullanılan tarama araçlarına dair rehberleri içerir.
 
 **İçerik Listesi:**
+- burp-suite.docx
+- nuclei.docx
 - Clickjacking Nedir.docx
 - D-TECT.docx
 - JoomScan.docx
@@ -116,6 +118,26 @@ Bu klasör, web uygulamalarında istismar (exploitation) işlemlerinde kullanıl
 
 **İçerik Listesi:**
 - Metasploit.pptx
+- websploit.docx
+
+---
+
+## 9.Parola Saldırı ve Kırma Araçları
+
+Bu klasör, parola saldırısı ve kırma işlemlerinde kullanılan araçlara dair rehberleri içerir.
+
+**İçerik Listesi:**
+- firecrack.docx
+
+---
+
+## 12.Web Shell ve Arka Kapı Araçları
+
+Bu klasör, web shell ve arka kapı oluşturma/istismar araçlarına dair rehberleri içerir.
+
+**İçerik Listesi:**
+- Webponized.docx
+- weevely.docx
 
 ---
 
@@ -124,6 +146,14 @@ Bu klasör, web uygulamalarında istismar (exploitation) işlemlerinde kullanıl
 - logo.jpg
 
 ---
+
+## Diğer Kaynaklar ve Belgeler
+
+- pentesting-steps-tools.pdf (www.linkedin.com/in/yusabas)
+
+
+---
+
 
 Katkıda bulunmak isteyenler, yeni içerik ekleyebilir veya mevcut içerikleri güncelleyebilir. Lütfen katkı yapmadan önce bir issue açınız.
 
