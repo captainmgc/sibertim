@@ -26,11 +26,9 @@ Bu klasör, siber güvenlik çalışmalarına başlamadan önce temel bilgileri 
 
 ## 2. Bilgi Toplama
 
-Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullanılan araç ve yöntemlere dair dökümanları içerir. Her alt klasörde farklı bir bilgi toplama tekniği veya aracı hakkında rehberler yer alır.
+Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullanılan araç ve yöntemlere dair dökümanları içerir. Alt klasörler aşağıdaki gibidir:
 
-### Alt Klasörler ve İçerikleri
-
-#### 1. Alan Adı ve Subdomain Keşfi
+### 1. Alan Adı ve Subdomain Keşfi
 - Amass.docx
 - AssetFinder.docx
 - Crtsh_Httpx.docx
@@ -40,7 +38,7 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - Subfinder.docx
 - SUBLİST3R.docx
 
-#### 2. E-posta ve İnsan Bilgisi Toplama (OSINT)
+### 2. E-posta ve İnsan Bilgisi Toplama (OSINT)
 - Email_Format_com.docx
 - Hunter_io.docx
 - Linkedin.docx
@@ -50,33 +48,36 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - SocialFish Nedir.docx
 - Weeman Nedir.docx
 
-#### 3. Açıkta Kalmış Dosya ve Endpoint Bulma
+### 3. Açıkta Kalmış Dosya ve Endpoint Bulma
 - gau(getallUrls).docx
 - Goofile.docx
 - Paramspider.docx
 - waybackurls.docx
 - google dorking.docx
 
-#### 4. Ağ, IP ve Servis Bilgisi Toplama
+### 4. Ağ, IP ve Servis Bilgisi Toplama
 - CENSYS.docx
 - DMİTRY.docx
 - SHODAN .docx
 - WHATWEB  WAPPALYZER.docx
 
-#### 5. Web Uygulaması ve WAF Tespiti
+### 5. Web Uygulaması ve WAF Tespiti
 - Httprobe_vs_httpx.docx
 - WafW00f.docx
 
-#### 6. Görsel OSINT  Haritalama
+### 6. Görsel OSINT  Haritalama
 - Maltego.docx
 - Metagoofil.docx
 - SpiderFoot.docx
 - EvilURL Nedir.docx
 
-#### 7. Zafiyet Arşivi ve Exploit Veritabanı
+### 7. Zafiyet Arşivi ve Exploit Veritabanı
 - ExploitDB_SearchSploit_Rehber.docx
 - GitHub_Zafiyet_POC_OSINT.docx
 - Vulners_Zafiyet_Veritabani.docx
+
+### Diğer
+- Arjun Nedir.docx
 
 ---
 
@@ -85,6 +86,9 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara dair rehberleri içerir.
 
 **İçerik Listesi:**
+- CrackMapExec.docx
+- Kiterunner Nedir.docx
+- Shcheck Nedir.docx
 - Hping3.docx
 - Nmap.docx
 - IP Attack Nedir.docx
@@ -96,48 +100,34 @@ Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara 
 
 ## 4. Web Uygulama Tarayıcısı
 
-Bu klasör, web uygulamalarının güvenlik testlerinde kullanılan tarama araçlarına dair rehberleri içerir.
-
 **İçerik Listesi:**
+- Fimap Nedir _.docx
+- jSQL Injection Aracı Nedir _.docx
+- Rengine Nedir.docx
+- SQLMap Nedir _.docx
+- Vulmap Nedir _.docx
+- ZAP CLI Nedir.docx
+- XSSer Nedir.docx
 - burp-suite.docx
 - nuclei.docx
-- Clickjacking Nedir.docx
-- D-TECT.docx
-- JoomScan.docx
-- NİKTO.docx
-- owasp-zap.docx
 - RED HAWK.docx
-- Vega.docx
+- NİKTO.docx
+- D-TECT.docx
+- Clickjacking Nedir.docx
 - W3af.docx
+- Vega.docx
+- owasp-zap.docx
+- JoomScan.docx
 
 ---
 
 ## 5. Web Uygulama İstismar Araçları
 
-Bu klasör, web uygulamalarında istismar (exploitation) işlemlerinde kullanılan araçlara dair rehber ve sunumları içerir.
-
 **İçerik Listesi:**
-- Metasploit.pptx
+- Metasploit Framework Nedir _.docx
+- Exploit-DB Mirror Nedir _.docx
 - websploit.docx
-
----
-
-## 9.Parola Saldırı ve Kırma Araçları
-
-Bu klasör, parola saldırısı ve kırma işlemlerinde kullanılan araçlara dair rehberleri içerir.
-
-**İçerik Listesi:**
-- firecrack.docx
-
----
-
-## 12.Web Shell ve Arka Kapı Araçları
-
-Bu klasör, web shell ve arka kapı oluşturma/istismar araçlarına dair rehberleri içerir.
-
-**İçerik Listesi:**
-- Webponized.docx
-- weevely.docx
+- Metasploit.pptx
 
 ---
 
@@ -159,6 +149,36 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - Ghost Phisher .docx
 - WEP ağlarına yönelik saldırılar.docx
 - WPAWPA2 AĞLARINA YÖNELİK SALDIRILAR .docx
+
+---
+
+## 9.Parola Saldırı ve Kırma Araçları
+
+**İçerik Listesi:**
+- linPEAS winPEAS Nedir.docx
+- BloodHound Nedir _.docx
+- firecrack.docx
+
+---
+
+## 10.Forensic Araçları
+
+**İçerik Listesi:**
+- Autopsy.docx
+- CyberChef.docx
+- Exiftool.docx
+- Ghidra.docx
+- YARA Araci.docx
+
+---
+
+## 12.Web Shell ve Arka Kapı Araçları
+
+Bu klasör, web shell ve arka kapı oluşturma/istismar araçlarına dair rehberleri içerir.
+
+**İçerik Listesi:**
+- Webponized.docx
+- weevely.docx
 
 ---
 
