@@ -47,6 +47,7 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - Pish Nedir.docx
 - SocialFish Nedir.docx
 - Weeman Nedir.docx
+- Weeman Nedir..........docx
 - GOPHİSH.docx
 - EVİLGİNX2.docx
 
@@ -82,6 +83,7 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - Arjun Nedir.docx
 - ceWL.docx
 - GetJS.docx
+- Fierce.docx
 
 ---
 
@@ -90,6 +92,7 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara dair rehberleri içerir.
 
 **İçerik Listesi:**
+- Masscan.docx
 - CrackMapExec.docx
 - Kiterunner Nedir.docx
 - Shcheck Nedir.docx
@@ -148,6 +151,9 @@ Bu klasör, yerel ağda yapılan saldırı teknikleri ve araçlarına dair rehbe
 **İçerik Listesi:**
 - ARP Spoofing ve SSLstrip ile Araya Girme.docx
 - Girilen Web Sitelerini Loglama (Ağ Trafiği İzleme.docx
+- Bettercap.docx
+- wireshark kullanımı.docx
+- tcpdump.docx
 - CHISEL.docx
 - IMPACKET.docx
 - RESPONDER.docx
@@ -159,9 +165,10 @@ Bu klasör, yerel ağda yapılan saldırı teknikleri ve araçlarına dair rehbe
 Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair rehberleri içerir.
 
 **İçerik Listesi:**
-- Ghost Phisher .docx
-- WEP ağlarına yönelik saldırılar.docx
 - WPAWPA2 AĞLARINA YÖNELİK SALDIRILAR .docx
+- WEP ağlarına yönelik saldırılar.docx
+- gizli ağları bulma.docx
+- Ghost Phisher .docx
 
 ---
 
