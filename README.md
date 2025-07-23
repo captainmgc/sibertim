@@ -47,6 +47,8 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - Pish Nedir.docx
 - SocialFish Nedir.docx
 - Weeman Nedir.docx
+- GOPHİSH.docx
+- EVİLGİNX2.docx
 
 ### 3. Açıkta Kalmış Dosya ve Endpoint Bulma
 - gau(getallUrls).docx
@@ -138,6 +140,9 @@ Bu klasör, yerel ağda yapılan saldırı teknikleri ve araçlarına dair rehbe
 **İçerik Listesi:**
 - ARP Spoofing ve SSLstrip ile Araya Girme.docx
 - Girilen Web Sitelerini Loglama (Ağ Trafiği İzleme.docx
+- CHISEL.docx
+- IMPACKET.docx
+- RESPONDER.docx
 
 ---
 
