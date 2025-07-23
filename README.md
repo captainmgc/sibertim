@@ -150,7 +150,7 @@ Bu klasör, yerel ağda yapılan saldırı teknikleri ve araçlarına dair rehbe
 
 **İçerik Listesi:**
 - ARP Spoofing ve SSLstrip ile Araya Girme.docx
-- Girilen Web Sitelerini Loglama (Ağ Trafiği İzleme.docx
+- Girilen Web Sitelerini Loglama (Ağ Trafiği İzleme.docx)
 - Bettercap.docx
 - wireshark kullanımı.docx
 - tcpdump.docx
