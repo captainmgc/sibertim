@@ -80,6 +80,8 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 
 ### Diğer
 - Arjun Nedir.docx
+- ceWL.docx
+- GetJS.docx
 
 ---
 
@@ -120,6 +122,12 @@ Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara 
 - Vega.docx
 - owasp-zap.docx
 - JoomScan.docx
+- dalfox.docx
+- dirsearch.docx
+- FFUF.docx
+- wapiti.docx
+- wpScan.docx
+- XSStrike.docx
 
 ---
 
@@ -163,6 +171,7 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - linPEAS winPEAS Nedir.docx
 - BloodHound Nedir _.docx
 - firecrack.docx
+- findMyhash.docx
 
 ---
 
@@ -174,6 +183,7 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - Exiftool.docx
 - Ghidra.docx
 - YARA Araci.docx
+- volatility.docx
 
 ---
 
