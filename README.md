@@ -21,6 +21,7 @@ Bu klasör, siber güvenlik çalışmalarına başlamadan önce temel bilgileri 
 - 3.UTM Üzerine Kurulumu.docx
 - 3.VMware Workstation Üzerine Kurulumu.docx
 - 3.Virtual Box Üzerine Kurulumu.docx
+- Kali_Purple_Egitim_Materyali.docx
 
 ---
 
@@ -73,6 +74,8 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - Metagoofil.docx
 - SpiderFoot.docx
 - EvilURL Nedir.docx
+- Lampyre Nedir ve Kurulumu.docx
+- Creepy Nedir ve Kurulumu.docx
 
 ### 7. Zafiyet Arşivi ve Exploit Veritabanı
 - ExploitDB_SearchSploit_Rehber.docx
@@ -175,6 +178,9 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 ## 9.Parola Saldırı ve Kırma Araçları
 
 **İçerik Listesi:**
+- BadBlood_AD_Egitim_Materyali.docx
+- GhostPack_Egitim_Materyali.docx
+- Invoke_Obfuscation_Egitim_Materyali.docx
 - linPEAS winPEAS Nedir.docx
 - BloodHound Nedir _.docx
 - firecrack.docx
@@ -185,20 +191,26 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 ## 10.Forensic Araçları
 
 **İçerik Listesi:**
-- Autopsy.docx
-- CyberChef.docx
-- Exiftool.docx
-- Ghidra.docx
-- YARA Araci.docx
-- volatility.docx
+- ExifScan Nedir ve Kurulumu.docx
+- Falco Nedir ve Kurulumu.docx
+- HELK Nedir ve Kurulumu.docx
+- OpenSnitch Nedir ve Kurulumu.docx
+- OSQuery Nedir ve Kurulumu.docx
+- Security_Onion Nedir ve Kurulum.docx
+- Sysmon + SysmonView Nedir ve Kurulumu.docx
+- Wazuh Nedir ve Kurulumu.docx
 
 ---
 
 ## 12.Web Shell ve Arka Kapı Araçları
 
-Bu klasör, web shell ve arka kapı oluşturma/istismar araçlarına dair rehberleri içerir.
-
 **İçerik Listesi:**
+- Brute_Ratel_C4_eğitim_materyali.docx
+- Caldera_MITRE_Egitim_Materyali.docx
+- Covenant_C2_Egitim_Materyali.docx
+- Mythic_C2_Egitici_Materyal.docx
+- PoshC2_Egitim_Materyali.docx
+- Python_Empire_Egitim_Materyali.docx
 - Webponized.docx
 - weevely.docx
 
