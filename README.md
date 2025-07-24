@@ -150,6 +150,7 @@ Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara 
 - wapiti.docx
 - wpScan.docx
 - XSStrike.docx
+- Badger Nedir _.docx
 
 ---
 
@@ -178,6 +179,7 @@ Bu klasör, yerel ağda yapılan saldırı teknikleri ve araçlarına dair rehbe
 - RESPONDER.docx
 - tcpdump.docx
 - wireshark kullanımı.docx
+- Storm-Breaker Nedir _.docx
 
 ---
 
@@ -205,6 +207,8 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - BloodHound Nedir _.docx
 - firecrack.docx
 - findMyhash.docx
+- certipy.docx
+- noPac exploit tools.docx
 
 ---
 
@@ -241,6 +245,8 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - volatility.docx
 - Wazuh Nedir ve Kurulumu.docx
 - YARA Araci.docx
+- elastic security for ELK.docx
+- Malcolm Nedir _.docx
 
 ---
 
@@ -255,6 +261,7 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - Python_Empire_Egitim_Materyali.docx
 - Webponized.docx
 - weevely.docx
+- BRUTERATEL.docx
 
 ---
 
