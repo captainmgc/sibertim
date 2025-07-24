@@ -92,6 +92,11 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - Hakrawler Nedir.docx
 - SecLists Nedir.docx
 - WordlistRaider Nedir.docx
+- FuzzDB Nedir.docx
+- AWSBucketDump Nedir.docx
+- CloudBrute Nedir.docx
+- FalconHound Nedir ve Kurulumu.docx
+- RedELK Nedir ve Kurulumu.docx
 
 ---
 
@@ -208,16 +213,19 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 **İçerik Listesi:**
 - Alterx Nedir.docx
 - Arkime Nedir.docx
+- Arkime_Moloch_Egitim_Materyali.docx
 - Autopsy.docx
 - Binwalk Nedir.docx
 - Bulk Extractor Nedir.docx
 - CAPE Sandbox Nedir.docx
+- Cado Community Tools Nedir ve Kurulumu.docx
 - CyberChef.docx
 - ExifScan Nedir ve Kurulumu.docx
 - Exiftool.docx
 - Falco Nedir ve Kurulumu.docx
 - Ghidra.docx
 - HELK Nedir ve Kurulumu.docx
+- LogonTracer_Egitim_Materyali.docx
 - OpenSnitch Nedir ve Kurulumu.docx
 - OSQuery Nedir ve Kurulumu.docx
 - Plaso.docx
@@ -226,6 +234,9 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - Sigma Nedir.docx
 - Snort Nedir.docx
 - Sysmon + SysmonView Nedir ve Kurulumu.docx
+- Sysmon_Modular_Configs_Egitim_Materyali.docx
+- ThreatHunting_Project_Egitim_Materyali.docx
+- Vector Loki Stack Nedir ve Kurulumu.docx
 - Velociraptor Nedir.docx
 - volatility.docx
 - Wazuh Nedir ve Kurulumu.docx
