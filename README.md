@@ -97,6 +97,9 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - CloudBrute Nedir.docx
 - FalconHound Nedir ve Kurulumu.docx
 - RedELK Nedir ve Kurulumu.docx
+- CARTOGRAPHY.docx
+- CLOUDQUERY.docx
+- PACU.docx
 
 ---
 
@@ -247,6 +250,10 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - YARA Araci.docx
 - elastic security for ELK.docx
 - Malcolm Nedir _.docx
+- CROWDSEC.docx
+- MITRE ATT&CK NAVİGATOR.docx
+- SYSFLOW.docx
+- SİGMA2SPLUNK.docx
 
 ---
 
