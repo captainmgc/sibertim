@@ -34,6 +34,7 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - AssetFinder.docx
 - Crtsh_Httpx.docx
 - Dnsenum.docx
+- DNSx Nedir.docx
 - Findomain.docx
 - ReconFTW_Kullanim_Kilavuzu.docx
 - Subfinder.docx
@@ -87,6 +88,10 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - ceWL.docx
 - GetJS.docx
 - Fierce.docx
+- GF.docx
+- Hakrawler Nedir.docx
+- SecLists Nedir.docx
+- WordlistRaider Nedir.docx
 
 ---
 
@@ -95,13 +100,17 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara dair rehberleri içerir.
 
 **İçerik Listesi:**
-- Masscan.docx
 - CrackMapExec.docx
-- Kiterunner Nedir.docx
-- Shcheck Nedir.docx
 - Hping3.docx
-- Nmap.docx
 - IP Attack Nedir.docx
+- Kiterunner Nedir.docx
+- LEGO (Let's Encrypt) Nedir.docx
+- Masscan.docx
+- Netdiscover Nedir.docx
+- Nmap.docx
+- RustScan Nedir.docx
+- Shcheck Nedir.docx
+- ZMap Nedir.docx
 - SSL Araçları/
   - SSL SCANNER .docx
   - STRİCERT.docx
@@ -111,6 +120,8 @@ Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara 
 ## 4. Web Uygulama Tarayıcısı
 
 **İçerik Listesi:**
+- BBHT.docx
+- x8 Aracı Nedir.docx
 - Fimap Nedir _.docx
 - jSQL Injection Aracı Nedir _.docx
 - Rengine Nedir.docx
@@ -153,13 +164,15 @@ Bu klasör, yerel ağda yapılan saldırı teknikleri ve araçlarına dair rehbe
 
 **İçerik Listesi:**
 - ARP Spoofing ve SSLstrip ile Araya Girme.docx
-- Girilen Web Sitelerini Loglama (Ağ Trafiği İzleme.docx)
 - Bettercap.docx
-- wireshark kullanımı.docx
-- tcpdump.docx
 - CHISEL.docx
+- Ettercap Nedir.docx
+- Girilen Web Sitelerini Loglama (Ağ Trafiği İzleme.docx)
 - IMPACKET.docx
+- MITMf Nedir.docx
 - RESPONDER.docx
+- tcpdump.docx
+- wireshark kullanımı.docx
 
 ---
 
@@ -178,10 +191,12 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 ## 9.Parola Saldırı ve Kırma Araçları
 
 **İçerik Listesi:**
+- Atomic Red Team Nedir.docx
 - BadBlood_AD_Egitim_Materyali.docx
 - GhostPack_Egitim_Materyali.docx
 - Invoke_Obfuscation_Egitim_Materyali.docx
 - linPEAS winPEAS Nedir.docx
+- PEASS-ng Nedir.docx
 - BloodHound Nedir _.docx
 - firecrack.docx
 - findMyhash.docx
@@ -191,14 +206,30 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 ## 10.Forensic Araçları
 
 **İçerik Listesi:**
+- Alterx Nedir.docx
+- Arkime Nedir.docx
+- Autopsy.docx
+- Binwalk Nedir.docx
+- Bulk Extractor Nedir.docx
+- CAPE Sandbox Nedir.docx
+- CyberChef.docx
 - ExifScan Nedir ve Kurulumu.docx
+- Exiftool.docx
 - Falco Nedir ve Kurulumu.docx
+- Ghidra.docx
 - HELK Nedir ve Kurulumu.docx
 - OpenSnitch Nedir ve Kurulumu.docx
 - OSQuery Nedir ve Kurulumu.docx
+- Plaso.docx
+- RedLine Stealer Nedir.docx
 - Security_Onion Nedir ve Kurulum.docx
+- Sigma Nedir.docx
+- Snort Nedir.docx
 - Sysmon + SysmonView Nedir ve Kurulumu.docx
+- Velociraptor Nedir.docx
+- volatility.docx
 - Wazuh Nedir ve Kurulumu.docx
+- YARA Araci.docx
 
 ---
 
