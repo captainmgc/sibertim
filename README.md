@@ -55,6 +55,7 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - Dnsenum.docx
 - DNSx Nedir.docx
 - Findomain.docx
+- MassDNS_Egitim_Materyali.docx
 - ReconFTW_Kullanim_Kilavuzu.docx
 - Subfinder.docx
 - SUBLİST3R.docx
@@ -107,6 +108,7 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - ceWL.docx
 - GetJS.docx
 - Fierce.docx
+- Fierce_Egitim_Materyali.docx
 - GF.docx
 - Hakrawler Nedir.docx
 - SecLists Nedir.docx
@@ -142,6 +144,7 @@ Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara 
 
 **İçerik Listesi:**
 - CrackMapExec.docx
+- Fping_Egitim_Materyali.docx
 - Hping3.docx
 - IP Attack Nedir.docx
 - Kiterunner Nedir.docx
