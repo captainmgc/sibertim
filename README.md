@@ -1,12 +1,31 @@
-<p align="center">
-  <img src="logo/logo.jpg" alt="sibertim.com logo" width="500"/>
-</p>
-
-# sibertim.com İçerikleri
-
-Bu depo, **sibertim.com** için hazırlanmış siber güvenlik eğitim ve rehber içeriklerini barındırır. İçerikler, siber güvenlik alanında bilgi edinmek, pratik yapmak ve çeşitli araçların kullanımını öğrenmek isteyenler için derlenmiştir.
+<div align="center">
+  <img src="logo/logo.jpg" alt="Sibertim.com Logo" width="250"/>
+  
+  # 🔐 Sibertim.com İçerikleri
+  
+  **Siber güvenlik alanında bilgi edinmek ve pratik yapmak için oluşturulmuş içerikler**
+  
+  [![Website](https://img.shields.io/badge/Website-sibertim.com-blue?style=for-the-badge)](https://sibertim.com)
+  [![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](LICENSE)
+  [![Version](https://img.shields.io/badge/Version-2025-orange?style=for-the-badge)](#)
+  
+</div>
 
 ---
+
+## 📖 Hakkında
+
+Bu repository, **sibertim.com** için hazırlanmış kapsamlı siber güvenlik eğitim ve rehber içeriklerini barındırır. İçerikler, siber güvenlik alanında bilgi edinmek, pratik yapmak ve çeşitli araçların kullanımını öğrenmek isteyenler için profesyonel olarak derlenmiştir.
+
+### ✨ Özellikler
+- 🛡️ **Kapsamlı İçerik**: 12 farklı kategoride 400+ dokümantasyon
+- 🎯 **Praktik Odaklı**: Gerçek senaryolar ve örnekler
+- 📚 **Sürekli Güncellenen**: Yeni araçlar ve teknikler düzenli olarak eklenir
+- 🔧 **Araç Odaklı**: Her araç için detaylı kullanım rehberleri
+
+---
+
+## 📂 İçerik Kategorileri
 
 ## 1. Giriş
 
@@ -95,8 +114,22 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - FuzzDB Nedir.docx
 - AWSBucketDump Nedir.docx
 - CloudBrute Nedir.docx
+- CloudSploit Nedir.docx
 - FalconHound Nedir ve Kurulumu.docx
+- FOCA Nedir ve Kurulumu.docx
+- FOFA Search Nedir.docx
+- Ghunt Nedir ve Kurulumu.docx
+- kube-hunter.docx
+- KubeSec Nedir.docx
+- Maigret Nedir ve Kullanımı.docx
 - RedELK Nedir ve Kurulumu.docx
+- ScoutSuite Nedir.docx
+- Shodan CLI Nedir.docx
+- SKİPTRACER NEDİ1.docx
+- Socialscan Nedir ve Kullanımı.docx
+- SOCİAL.docx
+- Trivy Nedir.docx
+- TİNFOLEAK NEDİR.docx
 - CARTOGRAPHY.docx
 - CLOUDQUERY.docx
 - PACU.docx
@@ -212,6 +245,8 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - findMyhash.docx
 - certipy.docx
 - noPac exploit tools.docx
+- ruberus.docx
+- sharphound.docx
 
 ---
 
@@ -227,16 +262,23 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - CAPE Sandbox Nedir.docx
 - Cado Community Tools Nedir ve Kurulumu.docx
 - CyberChef.docx
+- DSViper_Egitim_Materyali.docx
 - ExifScan Nedir ve Kurulumu.docx
 - Exiftool.docx
 - Falco Nedir ve Kurulumu.docx
+- FIRMADYNE Nedir.docx
+- Firmware Mod Kit.docx
+- Foremost Nedir.docx
 - Ghidra.docx
 - HELK Nedir ve Kurulumu.docx
+- Helk Nedir _.docx
+- Jefferson Nedir _.docx
 - LogonTracer_Egitim_Materyali.docx
 - OpenSnitch Nedir ve Kurulumu.docx
 - OSQuery Nedir ve Kurulumu.docx
 - Plaso.docx
 - RedLine Stealer Nedir.docx
+- Security Onion Nedir _.docx
 - Security_Onion Nedir ve Kurulum.docx
 - Sigma Nedir.docx
 - Snort Nedir.docx
@@ -248,6 +290,7 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - volatility.docx
 - Wazuh Nedir ve Kurulumu.docx
 - YARA Araci.docx
+- Zeek (Bro) Nedir _.docx
 - elastic security for ELK.docx
 - Malcolm Nedir _.docx
 - CROWDSEC.docx
@@ -266,17 +309,12 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - Mythic_C2_Egitici_Materyal.docx
 - PoshC2_Egitim_Materyali.docx
 - Python_Empire_Egitim_Materyali.docx
+- QuasarRAT_Egitim_Materyali.docx
+- SILENTTRINITY .docx
 - Webponized.docx
 - weevely.docx
 - BRUTERATEL.docx
 
----
-
-## logo
-
-- logo.jpg
-
----
 
 ## Diğer Kaynaklar ve Belgeler
 
@@ -284,12 +322,13 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 
 
 ---
-
+## Katkıda Bulunma
 
 Katkıda bulunmak isteyenler, yeni içerik ekleyebilir veya mevcut içerikleri güncelleyebilir. Lütfen katkı yapmadan önce bir issue açınız.
 
 Tüm içerikler eğitim amaçlıdır. İzinsiz çoğaltılamaz veya ticari amaçla kullanılamaz.
 
 ---
-
-Daha fazla bilgi için [sibertim.com](https://sibertim.com) adresini ziyaret edebilirsiniz.
+<footer align="center">
+  <p>© 2025 Sibertim.com | <a href="https://sibertim.com" target="_blank">sibertim.com</a></p>
+</footer>
