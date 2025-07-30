@@ -18,7 +18,7 @@
 Bu repository, **sibertim.com** için hazırlanmış kapsamlı siber güvenlik eğitim ve rehber içeriklerini barındırır. İçerikler, siber güvenlik alanında bilgi edinmek, pratik yapmak ve çeşitli araçların kullanımını öğrenmek isteyenler için profesyonel olarak derlenmiştir.
 
 ### ✨ Özellikler
-- 🛡️ **Kapsamlı İçerik**: 12 farklı kategoride 400+ dokümantasyon
+- 🛡️ **Kapsamlı İçerik**: 10 farklı kategoride 259 dokümantasyon
 - 🎯 **Praktik Odaklı**: Gerçek senaryolar ve örnekler
 - 📚 **Sürekli Güncellenen**: Yeni araçlar ve teknikler düzenli olarak eklenir
 - 🔧 **Araç Odaklı**: Her araç için detaylı kullanım rehberleri
