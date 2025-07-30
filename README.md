@@ -26,8 +26,8 @@ Bu repository, **sibertim.com** için hazırlanmış kapsamlı siber güvenlik e
 ### 🆕 Son Güncellemeler (28.07.2025)
 - ✅ **"Bilgi Toplama"** klasörü tamamen yeniden organize edildi
 - ✅ **"Cloud ve Container Güvenliği"** yeni alt kategorisi oluşturuldu
-- ✅ **70+ docx dosyası** doğru alt klasörlerine taşındı
-- ✅ **8 kategoriye** ayrılmış organize yapı oluşturuldu
+- ✅ **Tüm docx dosyaları** doğru alt klasörlerine taşındı
+- ✅ **Doğru kategorilere** ayrılmış organize yapı oluşturuldu
 - ✅ **BLACKBİRD**, **FEROXBUSTER**, **GRAPHQLMAP**, **UNCOVER** yeni araçları eklendi
 - ✅ **CARTOGRAPHY**, **CLOUDQUERY**, **PACU** gibi cloud araçları organize edildi
 - ✅ **CROWDSEC**, **MITRE ATT&CK NAVİGATOR**, **SYSFLOW**, **SİGMA2SPLUNK** araçları "Forensic Araçları" kategorisine eklendi
@@ -54,25 +54,6 @@ Bu klasör, siber güvenlik çalışmalarına başlamadan önce temel bilgileri 
 - 3.VMware Workstation Üzerine Kurulumu.docx
 - Kali_Purple_Egitim_Materyali.docx
 
-### Güvenlik ve İzleme Araçları:
-- cloud-nuke.docx
-- CloudFox_Egitim_Materyali.docx
-- FALCO.docx
-- Grype.docx
-- İntelmq.docx
-- Kubescape_Egitim_Materyali.docx
-- Misconfig Mapper Nedir.docx
-- munkaoverwiew .docx
-- OPA_Egitim_Materyali.docx
-- OSSIM.docx
-- prowler.docx
-- SECURİTY ONİON.docx
-- Semgrep_Egitim_Materyali.docx
-- Syft_Egitim_Materyali.docx
-- trufflehog.docx
-- Vuls.docx
-- Woodpecker_Egitim_Materyali.docx
-
 ---
 
 ## 2. Bilgi Toplama
@@ -92,6 +73,8 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - ReconFTW_Kullanim_Kilavuzu.docx
 - Subfinder.docx
 - SUBLİST3R.docx
+- ReconDog_Egitim_Materyali.docx
+- ReconFTW Nedir.docx
 
 ### 2. E-posta ve İnsan Bilgisi Toplama (OSINT)
 - BLACKBİRD.docx
@@ -112,6 +95,7 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - TİNFOLEAK NEDİR.docx
 - Weeman Nedir.docx
 - Weeman Nedir..........docx
+- GOPHISH.docx
 
 ### 3. Açıkta Kalmış Dosya ve Endpoint Bulma
 - Arjun Nedir.docx
@@ -129,6 +113,7 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - UNCOVER.docx
 - waybackurls.docx
 - WordlistRaider Nedir.docx
+- katana.docx
 
 ### 4. Ağ, IP ve Servis Bilgisi Toplama
 - CENSYS.docx
@@ -150,6 +135,7 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - Lampyre Nedir ve Kurulumu.docx
 - Creepy Nedir ve Kurulumu.docx
 - CARTOGRAPHY.docx
+- reconmap.docx
 
 ### 7. Zafiyet Arşivi ve Exploit Veritabanı
 - ExploitDB_SearchSploit_Rehber.docx
@@ -168,6 +154,14 @@ Bu klasör, siber güvenlikte bilgi toplama (reconnaissance) aşamasında kullan
 - RedELK Nedir ve Kurulumu.docx
 - ScoutSuite Nedir.docx
 - Trivy Nedir.docx
+- KubeBench Nedir.docx
+- oxeye.docx
+- RedHunt OS Nedir.docx
+- CloudFox_Egitim_Materyali.docx
+- Kubescape_Egitim_Materyali.docx
+- OPA_Egitim_Materyali.docx
+- cloud-nuke.docx
+- prowler.docx
 
 ---
 
@@ -196,7 +190,7 @@ Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara 
 
 ---
 
-## 4. Web Uygulama Tarayıcısı
+### 4. Web Uygulama Tarayıcısı
 
 **İçerik Listesi:**
 - Badger Nedir _.docx
@@ -227,6 +221,18 @@ Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara 
 - XSSer Nedir.docx
 - XSStrike.docx
 - ZAP CLI Nedir.docx
+- AttackForge.docx
+- Boofuzz.docx
+- INQL_Egitim_Materyali.docx
+- Krakend_Security_Scanner_Egitim.docx
+- graphw00f.docx
+- peach Fuzzer.docx
+- Grype.docx
+- Misconfig Mapper Nedir.docx
+- Semgrep_Egitim_Materyali.docx
+- Syft_Egitim_Materyali.docx
+- Vuls.docx
+- trufflehog.docx
 
 ---
 
@@ -237,10 +243,13 @@ Bu klasör, ağ keşfi ve port tarama işlemlerinde kullanılan temel araçlara 
 - Exploit-DB Mirror Nedir _.docx
 - websploit.docx
 - Metasploit.pptx
+- BeEF.docx
+- FiddleITM Nedir.docx
+- Modlishka.docx
 
 ---
 
-## 7.Yerel Ağ Saldırıları
+## 6.Yerel Ağ Saldırıları
 
 Bu klasör, yerel ağda yapılan saldırı teknikleri ve araçlarına dair rehberleri içerir.
 
@@ -256,10 +265,15 @@ Bu klasör, yerel ağda yapılan saldırı teknikleri ve araçlarına dair rehbe
 - tcpdump.docx
 - wireshark kullanımı.docx
 - Storm-Breaker Nedir _.docx
+- CrackMapExec.docx
+- Evil-WinRM.docx
+- HAVOC C2.docx
+- MİMİKATZ.docx
+- wiewshark kullanımı.docx
 
 ---
 
-## 8.Kablosuz Ağlara Yönelik Saldırılar
+## 7.Kablosuz Ağlara Yönelik Saldırılar
 
 Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair rehberleri içerir.
 
@@ -268,10 +282,11 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - WEP ağlarına yönelik saldırılar.docx
 - gizli ağları bulma.docx
 - Ghost Phisher .docx
+- BlueToolkit Nedir ve Kullanımı.docx
 
 ---
 
-## 9.Parola Saldırı ve Kırma Araçları
+## 8.Parola Saldırı ve Kırma Araçları
 
 **İçerik Listesi:**
 - Atomic Red Team Nedir.docx
@@ -287,10 +302,13 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - noPac exploit tools.docx
 - ruberus.docx
 - sharphound.docx
+- AtomicTestHarness Nedir ve Kullanımı.docx
+- Medusa Nedir ve Kullanımı.docx
+- katzekey.docx
 
 ---
 
-## 10.Forensic Araçları
+## 9.Forensic Araçları
 
 **İçerik Listesi:**
 - Alterx Nedir.docx
@@ -334,13 +352,25 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - elastic security for ELK.docx
 - Malcolm Nedir _.docx
 - CROWDSEC.docx
-- MITRE ATT&CK NAVİGATOR.docx
+- MITRE ATTCK NAVİGATOR.docx
 - SYSFLOW.docx
 - SİGMA2SPLUNK.docx
+- FleetDM Nedir ve Kullanımı.docx
+- Tactical RMM.docx
+- VECTR Nedir.docx
+- YARA-X.docx
+- hawkeye.docx
+- hayabusa.docx
+- FALCO.docx
+- İntelmq.docx
+- munkaoverwiew .docx
+- OSSIM.docx
+- SECURİTY ONİON.docx
+- Woodpecker_Egitim_Materyali.docx
 
 ---
 
-## 12.Web Shell ve Arka Kapı Araçları
+## 10.Web Shell ve Arka Kapı Araçları
 
 **İçerik Listesi:**
 - Brute_Ratel_C4_eğitim_materyali.docx
@@ -354,6 +384,16 @@ Bu klasör, kablosuz ağlara yönelik saldırı teknikleri ve araçlarına dair 
 - Webponized.docx
 - weevely.docx
 - BRUTERATEL.docx
+- C2Matrix Nedir ve Kullanımı.docx
+- Atomic Red Team.docx
+- Beelzebub Nedir ve Kullanımı.docx
+- CharpCollection.docx
+- Koadic(JScript RAT).docx
+- LOLBAS.docx
+- SilverC2.docx
+- fudgeC2.docx
+- pupy.docx
+- shellter.docx
 
 
 ## Diğer Kaynaklar ve Belgeler
